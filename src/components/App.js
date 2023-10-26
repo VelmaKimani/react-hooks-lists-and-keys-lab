@@ -1,8 +1,8 @@
-import React from "react";
-import NavBar from "./NavBar";
-import Home from "./Home";
 import About from "./About";
+import Home from "./Home";
+import NavBar from "./NavBar";
 import ProjectList from "./ProjectList";
+import React from "react";
 import user from "../data/user";
 
 function App() {
